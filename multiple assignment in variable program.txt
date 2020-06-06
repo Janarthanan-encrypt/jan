@@ -1,0 +1,7 @@
+jana,abi="ll","kkjh"
+>>> abi
+'kkjh'
+>>> jana=jan=than="panimalar"
+>>> jan
+'panimalar'
+>>>

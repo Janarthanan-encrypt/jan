@@ -1,0 +1,18 @@
+name="jana"
+>>> nama="rth"
+>>> nam="anan"
+>>> fullname=name+nama+nam
+>>> fullname
+'janarthanan'
+>>> exam="cancel"
+>>> exam[3]
+'c'
+>>> exam[0:5]
+'cance'
+>>> anna="yfhghfhhhjghgknnmv,hgk"
+anna[0:8]
+'yfhghfhh'
+>>> anna[6:15]
+'hhhjghgkn'
+>>> anna[8:]
+'hjghgknnmv,hgk'
